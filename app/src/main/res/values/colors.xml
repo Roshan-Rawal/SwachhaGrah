@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="homeBackground">#efeaeb</color>
+    <color name="homeText">#fc9003</color>
+    <color name="homeUser">#0a0909</color>
+    <color name="homeHintColor">#746468</color>
+    <color name="homeButton">#ffffff</color>
+    <color name="homeButtonBackground">#625da7</color>
+    <color name="homeOr">#1b1b19</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_Activities"
+        android:title="Activities" />
+    <item android:id="@+id/nav_join"
+        android:title="Join Us" />
+    <item android:id="@+id/nav_home"
+        android:title="Home" />
+    <item android:id="@+id/nav_network"
+        android:title="My Network" />
+    <item android:id="@+id/nav_Partner"
+        android:title="Partner" />
+    <item android:id="@+id/nav_help"
+        android:title="Help and Feedback" />
+    <item android:id="@+id/nav_contact"
+        android:title="Contact Us" />
+    <item android:id="@+id/nav_about"
+        android:title="About Us" />
+    <item android:id="@+id/nav_setting"
+        android:title="Setting" />
+    <item android:id="@+id/nav_logout"
+        android:title="Logout" />
+</menu>

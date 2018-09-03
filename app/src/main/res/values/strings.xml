@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SwachhaGraha</string>
+    <string name="homeUser">Username</string>
+    <string name="homePassword">Password</string>
+    <string name="homeLogin">Login</string>
+    <string name="homeSignUp">SignUp</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="aboutUs">About स्वच्छाग्रह</string>
+    <string name="about">Swachhagraha is inspired by one of the largest mass movements - Satyagraha
+        that changed the fate of the country. Satyagraha catalysed action, by winning over people\'s
+        hearts through tremendous patience and perseverance, instilling in the Indian mind, dignity
+        and self respect. It was a freedom movement of the people, by the people and for the people.
+        Mahatma Gandhi, who conceptualized Satyagraha, was a staunch believer of the importance of
+        sanitation and cleanliness of surroundings in day to day life. He once said, If we do not
+        keep our backyards clean our Swaraj will have a foul stench. The project Swachhagraha draws
+        inspiration from the Satyagraha movement, to engage people and bring about change similar in
+        scale to India\'s freedom movement where people get involved to take action for Creating a
+        culture of cleanliness. The project takes inspiration from Swachh Bharat Abhiyan announced
+        by the Honourable Prime Minister of India, Shri Narendra Modi. He has emphasized the importance
+        of citizen\'s responsibility in sanitation. He says that it is not only the government\'s duty
+        but every citizen\'s duty to keep our villages and cities clean.  Swachhagraha is about promoting
+        civic consciousness amongst citizens through youth leaders.</string>
+</resources>
